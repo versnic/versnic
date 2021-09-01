@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aNicolasV)](https://github.com/NicolasV/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasV&count_private=true&show_icons=true&theme=dark)](https://github.com/NicolasV/github-readme-stats)
 
 <!--
 **NicolasV/NicolasV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
