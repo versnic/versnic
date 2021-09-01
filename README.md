@@ -46,7 +46,7 @@ So simultaneously with my apprenticeship I work on these projects:
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" width="30"/>](https://yarnpkg.com/ "Yarn")
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30"/>](https://git-scm.com/ "Git")
 
-**.. And more !**
+**.. And many more !**
 
 ## And for the curious..
   
