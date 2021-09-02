@@ -55,5 +55,3 @@ So simultaneously with my apprenticeship I work on these projects:
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasV)](https://github.com/NicolasV/github-readme-stats&border_radius=30&hide_border=true&bg_color=313849&title_color=667EBD&text_color=B1BACD&icon_color=467D46&) -->
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NicolasV)](https://github.com/NicolasV/github-readme-stats)
-
-
