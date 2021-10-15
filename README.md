@@ -1,6 +1,6 @@
 # Hello World 🌎
 
-## Hello, I'm Nicolas VERLAEKEN. I am a self-taught full-stack developer from Belgium/France. 
+## Hello, I'm Nicolas VERLAEKEN. I am a self-taught developer from Belgium/France. 
 
 Web development is a constantly evolving field, learning is never finished!
 
@@ -12,6 +12,8 @@ So simultaneously with my apprenticeship I work on these projects:
 - 🖌️ An artist website soon to be deployed
 
 - 👨‍🎓 Apprenticeship of aspects I still don't know ! 
+
+- 📦 Open source Nuxt packages !
 
 - 💬 Ask me about anything [here](https://github.com/NicolasV/NicolasV/issues)
 
