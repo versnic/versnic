@@ -11,9 +11,9 @@ So simultaneously with my apprenticeship I work on these projects:
  
 - 🖌️ An artist website soon to be deployed
 
-- 👨‍🎓 Apprenticeship of aspects I still don't know ! 
+- 📦 Open source Nuxt packages
 
-- 📦 Open source Nuxt packages !
+- 👨‍🎓 Apprenticeship of aspects I still don't know ! 
 
 - 💬 Ask me about anything [here](https://github.com/NicolasV/NicolasV/issues)
 
