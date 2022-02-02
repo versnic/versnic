@@ -26,13 +26,14 @@ So simultaneously with my apprenticeship I work on these projects:
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="30"/>](https://sass-lang.com "Sass")
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/>](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/ "Javascript")
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30"/>](https://www.typescriptlang.org/ "Typescript")
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/>](https://www.python.org/ "Python")
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" width="30"/>](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Markdown")
+
+<!-- [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/>](https://www.python.org/ "Python") -->
 
 **Frameworks I use:**
 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="30"/>](https://www.electronjs.org/ "Electron")
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width="30"/>](https://www.djangoproject.com/ "Django")
+<!-- [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="30"/>](https://www.electronjs.org/ "Electron")
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width="30"/>](https://www.djangoproject.com/ "Django") -->
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="30"/>](https://vuejs.org/ "VueJS")
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" width="30"/>](https://nuxtjs.org/ "NuxtJS")
 [<img src="https://avatars.githubusercontent.com/u/22138497?s=200&v=4" height="30"/>](https://vuetifyjs.com/ "Vuetify")
