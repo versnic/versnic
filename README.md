@@ -48,8 +48,8 @@ So simultaneously with my apprenticeship I work on these projects:
 
 ## And for the curious..
   
-[![NicolasV's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasV&count_private=true&show_icons=true&theme=highcontrast&include_all_commits=true&border_radius=30&hide_border=true&bg_color=313849&title_color=667EBD&text_color=B1BACD&icon_color=467D46&)](https://github.com/NicolasV/github-readme-stats)
+[![versnic's GitHub stats](https://github-readme-stats.vercel.app/api?username=versnic&count_private=true&show_icons=true&theme=highcontrast&include_all_commits=true&border_radius=30&hide_border=true&bg_color=313849&title_color=667EBD&text_color=B1BACD&icon_color=467D46&)](https://github.com/versnic/github-readme-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasV)](https://github.com/NicolasV/github-readme-stats&border_radius=30&hide_border=true&bg_color=313849&title_color=667EBD&text_color=B1BACD&icon_color=467D46&) -->
 
-[![NicolasV's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NicolasV)](https://github.com/NicolasV/github-readme-stats)
+[![versnic's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=versnic)](https://github.com/versnic/github-readme-stats)
