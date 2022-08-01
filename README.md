@@ -6,11 +6,6 @@ Web development is a constantly evolving field, learning is never finished!
 
 So simultaneously with my apprenticeship I work on these projects:
 
-- 🖥️ A new kind of desktop app to speed up web development
- > *More infos coming soon...*
- 
-- 🖌️ An artist website soon to be deployed
-
 - 📦 Open source Nuxt packages
 
 - 👨‍🎓 Apprenticeship of aspects I still don't know ! 
