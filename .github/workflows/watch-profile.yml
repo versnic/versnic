@@ -1,0 +1,55 @@
+name: Watch my profile
+on:
+  schedule:
+    - cron: '0 7 * * 1'
+  workflow_dispatch:
+permissions:
+  contents: read
+  issues: write
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs'), path = require('path')
+            const README = "README.md"
+            const md = fs.readFileSync(README, 'utf8')
+            const urls = new Set()
+            for (const m of md.matchAll(/(?:src|srcset)="([^"]+)"/g)) urls.add(m[1])
+            for (const m of md.matchAll(/!\[[^\]]*\]\(([^)\s]+)/g)) urls.add(m[1])
+            const bad = []
+            for (const raw of urls) {
+              const u = raw.replace(/&amp;/g, '&')
+              if (!/^https?:\/\//.test(u)) {
+                if (!fs.existsSync(path.join(path.dirname(README), u.split(/[?#]/)[0]))) bad.push([u, 'this file is not in the repo'])
+                continue
+              }
+              let why = ''
+              for (let i = 0; i < 2; i++) {
+                try {
+                  const r = await fetch(u, { signal: AbortSignal.timeout(20000) })
+                  const type = r.headers.get('content-type') || ''
+                  why = !r.ok ? 'HTTP ' + r.status : /image|svg|octet-stream/.test(type) ? '' : 'not an image (' + type + ')'
+                  await r.arrayBuffer()
+                } catch (e) { why = e.name === 'TimeoutError' ? 'no answer within 20 seconds' : 'could not connect' }
+                if (!why) break
+              }
+              if (why) bad.push([u, why])
+            }
+            const TITLE = 'Broken images in your profile README'
+            const repo = { owner: context.repo.owner, repo: context.repo.repo }
+            const open = (await github.rest.issues.listForRepo({ ...repo, state: 'open', per_page: 100 })).data.find((i) => i.title === TITLE && !i.pull_request)
+            if (bad.length) {
+              const body = 'The weekly check could not load ' + bad.length + ' of the ' + urls.size + ' images in ' + README + '. Visitors see an empty box instead.\n\n' +
+                bad.map(([u, why]) => '- ' + why + ': `' + u + '`').join('\n') +
+                '\n\nA file may be missing from the repo, or another server may be down. The Profile Doctor shows what to fix: https://tools.benibix.com/github/profile-readme-studio/app/?doctor=' + context.repo.owner + '\n\nThis issue closes by itself once every image loads again.'
+              if (open) await github.rest.issues.update({ ...repo, issue_number: open.number, body })
+              else await github.rest.issues.create({ ...repo, title: TITLE, body })
+              core.warning(bad.length + ' broken image(s)')
+            } else {
+              if (open) { await github.rest.issues.createComment({ ...repo, issue_number: open.number, body: 'All ' + urls.size + ' images load again.' }); await github.rest.issues.update({ ...repo, issue_number: open.number, state: 'closed' }) }
+              core.info('All ' + urls.size + ' images load.')
+            }
