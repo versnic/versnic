@@ -1,22 +1,28 @@
 <!-- studio:settings user=versnic theme=gruvbox hl=2 border=hide follow=on light=swift gap=1 watch=on -->
 
-<!-- studio:status -->
+<!-- studio:banner after=0 -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/versnic/versnic/main/profile-assets/open-to-new-job.svg?color=d79921&style=for-the-badge" alt="Open to new job" />
-  <img src="https://raw.githubusercontent.com/versnic/versnic/main/profile-assets/open-to-freelance.svg?color=d79921&style=for-the-badge" alt="Open to freelance" />
-  <img src="https://raw.githubusercontent.com/versnic/versnic/main/profile-assets/open-to-open-source.svg?color=d79921&style=for-the-badge" alt="Open to open source" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/versnic/versnic/main/profile-assets/banner-dark.svg?text=Nicolas%20Verlaeken&shape=waving&paint=theme&animation=fadeIn&section=header&height=180&fontSize=52" />
+    <img src="https://raw.githubusercontent.com/versnic/versnic/main/profile-assets/banner-light.svg?text=Nicolas%20Verlaeken&shape=waving&paint=theme&animation=fadeIn&section=header&height=180&fontSize=52" alt="Nicolas Verlaeken" />
+  </picture>
 </p>
 
-<br />
-
 <!-- studio:header after=1 -->
-<h1 align="center">Hi, I'm Nicolas Verlaeken 👋</h1>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/versnic/versnic/main/profile-assets/typing-dark.svg?lines=Full-stack%20Nuxt%20developer%20;Curious%20by%20nature%20;Resourceful%20by%20habit&font=Roboto%20Mono&size=24&width=500&center=true" />
     <img src="https://raw.githubusercontent.com/versnic/versnic/main/profile-assets/typing-light.svg?lines=Full-stack%20Nuxt%20developer%20;Curious%20by%20nature%20;Resourceful%20by%20habit&font=Roboto%20Mono&size=24&width=500&center=true" alt="Full-stack Nuxt developer . Curious by nature . Resourceful by habit" />
   </picture>
+</p>
+
+<br />
+
+<!-- studio:status -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/versnic/versnic/main/profile-assets/open-to-new-job.svg?color=d79921&style=for-the-badge" alt="Open to new job" />
+  <img src="https://raw.githubusercontent.com/versnic/versnic/main/profile-assets/open-to-freelance.svg?color=d79921&style=for-the-badge" alt="Open to freelance" />
+  <img src="https://raw.githubusercontent.com/versnic/versnic/main/profile-assets/open-to-open-source.svg?color=d79921&style=for-the-badge" alt="Open to open source" />
 </p>
 
 <br />
