@@ -102,11 +102,11 @@ I help turn ideas into functional, well-crafted digital products, bringing toget
 
 <!-- studio:socials -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/versnic"><picture>
+  <a href="https://www.linkedin.com/in/versnic](https://www.linkedin.com/in/nicolas-verlaeken-12b064205/"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/versnic/versnic/main/profile-assets/icon-linkedin-dark.svg?i=linkedin" />
     <img src="https://raw.githubusercontent.com/versnic/versnic/main/profile-assets/icon-linkedin-light.svg?i=linkedin" alt="LinkedIn" width="40" />
   </picture></a>
-  <a href="mailto:versnic@example.com"><picture>
+  <a href="mailto:verlaekenn@gmail.com"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/versnic/versnic/main/profile-assets/icon-email-dark.svg?i=gmail" />
     <img src="https://raw.githubusercontent.com/versnic/versnic/main/profile-assets/icon-email-light.svg?i=gmail" alt="Email" width="40" />
   </picture></a>
