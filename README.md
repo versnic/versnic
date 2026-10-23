@@ -1,55 +1,107 @@
-# Hello World 🌎
+<!-- studio:settings user=versnic theme=gruvbox hl=2 border=hide follow=on light=swift gap=1 watch=on -->
 
-## Hello, I'm Nicolas VERLAEKEN. I am a self-taught developer from Belgium/France. 
+<!-- studio:status -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/versnic/versnic/main/profile-assets/open-to-new-job.svg?color=d79921&style=for-the-badge" alt="Open to new job" />
+  <img src="https://raw.githubusercontent.com/versnic/versnic/main/profile-assets/open-to-freelance.svg?color=d79921&style=for-the-badge" alt="Open to freelance" />
+  <img src="https://raw.githubusercontent.com/versnic/versnic/main/profile-assets/open-to-open-source.svg?color=d79921&style=for-the-badge" alt="Open to open source" />
+</p>
 
-Web development is a constantly evolving field, learning is never finished!
+<br />
 
-So simultaneously with my apprenticeship I work on these projects:
+<!-- studio:header after=1 -->
+<h1 align="center">Hi, I'm Nicolas Verlaeken 👋</h1>
 
-- 📦 Open source Nuxt packages
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/versnic/versnic/main/profile-assets/typing-dark.svg?lines=Full-stack%20Nuxt%20developer%20;Curious%20by%20nature%20;Resourceful%20by%20habit&font=Roboto%20Mono&size=24&width=500&center=true" />
+    <img src="https://raw.githubusercontent.com/versnic/versnic/main/profile-assets/typing-light.svg?lines=Full-stack%20Nuxt%20developer%20;Curious%20by%20nature%20;Resourceful%20by%20habit&font=Roboto%20Mono&size=24&width=500&center=true" alt="Full-stack Nuxt developer . Curious by nature . Resourceful by habit" />
+  </picture>
+</p>
 
-- 👨‍🎓 Apprenticeship of aspects I still don't know ! 
+<br />
 
-- 💬 Ask me about anything [here](https://github.com/NicolasV/NicolasV/issues)
+<!-- studio:split w=25.70 after=1 -->
+<table>
+  <tr>
+    <td width="25%" align="center" valign="top">
+      <img src="https://github.com/versnic.png" alt="Avatar" width="100%" />
+    </td>
+    <td width="70%" valign="top">
 
-## Below is a list of what I like to use for development:
+### Websites. Applications. Built with purpose.
 
-**Languages I use:**
+I help turn ideas into functional, well-crafted digital products, bringing together design, development, and technical problem-solving.
 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30"/>](https://html.spec.whatwg.org/multipage/ "HTML5")
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30"/>](https://www.w3.org/Style/CSS/#specs "CSS3")
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="30"/>](https://sass-lang.com "Sass")
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/>](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/ "Javascript")
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30"/>](https://www.typescriptlang.org/ "Typescript")
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" width="30"/>](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Markdown")
+</td>
+  </tr>
+</table>
 
-<!-- [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/>](https://www.python.org/ "Python") -->
+<br />
 
-**Frameworks I use:**
+<!-- studio:repos -->
+<h2 align="center">Featured projects</h2>
 
-<!-- [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="30"/>](https://www.electronjs.org/ "Electron")
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width="30"/>](https://www.djangoproject.com/ "Django") -->
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="30"/>](https://vuejs.org/ "VueJS")
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" width="30"/>](https://nuxtjs.org/ "NuxtJS")
-[<img src="https://avatars.githubusercontent.com/u/22138497?s=200&v=4" height="30"/>](https://vuetifyjs.com/ "Vuetify")
-<!-- []( "") -->
+<p align="center">
+  <a href="https://github.com/modulane/dev-workspace-cli"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/versnic/versnic/main/profile-assets/card-repo-dev-workspace-cli-dark.svg?username=modulane&repo=dev-workspace-cli" />
+    <img src="https://raw.githubusercontent.com/versnic/versnic/main/profile-assets/card-repo-dev-workspace-cli-light.svg?username=modulane&repo=dev-workspace-cli" alt="dev-workspace-cli" />
+  </picture></a>
+  <a href="https://github.com/modulane/nuxt-core"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/versnic/versnic/main/profile-assets/card-repo-nuxt-core-dark.svg?username=modulane&repo=nuxt-core" />
+    <img src="https://raw.githubusercontent.com/versnic/versnic/main/profile-assets/card-repo-nuxt-core-light.svg?username=modulane&repo=nuxt-core" alt="nuxt-core" />
+  </picture></a>
+</p>
 
-**Tools I use:**
+<br />
 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30"/>](https://nodejs.org/ "NodeJS")
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="30"/>](https://www.figma.com/ "Figma")
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" width="30"/>](https://slack.com/ "Slack")
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="30"/>](https://code.visualstudio.com/ "Visual Studio Code")
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" width="30"/>](https://webpack.js.org/ "Webpack")
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" width="30"/>](https://yarnpkg.com/ "Yarn")
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30"/>](https://git-scm.com/ "Git")
+<!-- studio:stack per=10 after=2 -->
+<h2 align="center">Tools I use</h2>
 
-**.. And many more !**
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/versnic/versnic/main/profile-assets/stack-dark.svg?i=html%2Ccss%2Csass%2Cjs%2Cts%2Cnuxtjs%2Cpinia%2Cvitest%2Cnodejs%2Csupabase%2Cnpm%2Cyarn%2Cpnpm%2Cvscode%2Ccloudflare%2Cgithub%2Cfigma%2Cunity&perline=9" />
+    <img src="https://raw.githubusercontent.com/versnic/versnic/main/profile-assets/stack-light.svg?i=html,css,sass,js,ts,nuxtjs,pinia,vitest,nodejs,supabase,npm,yarn,pnpm,vscode,cloudflare,github,figma,unity&perline=9" alt="Tech stack: html, css, sass, js, ts, nuxtjs, pinia, vitest, nodejs, supabase, npm, yarn, pnpm, vscode, cloudflare, github, figma, unity" />
+  </picture>
+</p>
 
-## And for the curious..
-  
-[![versnic's GitHub stats](https://github-readme-stats.vercel.app/api?username=versnic&count_private=true&show_icons=true&theme=highcontrast&include_all_commits=true&border_radius=30&hide_border=true&bg_color=313849&title_color=667EBD&text_color=B1BACD&icon_color=467D46&)](https://github.com/versnic/github-readme-stats)
+<br /><br />
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasV)](https://github.com/NicolasV/github-readme-stats&border_radius=30&hide_border=true&bg_color=313849&title_color=667EBD&text_color=B1BACD&icon_color=467D46&) -->
+<!-- studio:metrics plugins=isocalendar.languages after=2 -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/versnic/versnic/main/profile-assets/card-overview-dark.svg?plugins=isocalendar.languages" />
+    <img src="https://raw.githubusercontent.com/versnic/versnic/main/profile-assets/card-overview-light.svg?plugins=isocalendar.languages" alt="Year overview" />
+  </picture>
+</p>
 
-[![versnic's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=versnic)](https://wakatime.com/@versnic)
+<br /><br />
+
+<!-- studio:details -->
+<details>
+<summary><b>More about me</b></summary>
+
+### More about me
+
+- 🧱 I like building reusable foundations instead of solving the same problem twice.
+- 🔍 I enjoy digging into problems until I understand what's actually causing them.
+- 🖥️ I work across the stack with Nuxt, from the UI to server-side logic.
+- 🎨 I care about how things look just as much as how they work.
+- ⚙️ I'm always refining my tools and workflow to make development faster and more consistent.
+- 🎮 Outside the web, I experiment with game development in Unity and 3D creation in Blender.
+
+</details>
+
+<br />
+
+<!-- studio:socials -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/versnic"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/versnic/versnic/main/profile-assets/icon-linkedin-dark.svg?i=linkedin" />
+    <img src="https://raw.githubusercontent.com/versnic/versnic/main/profile-assets/icon-linkedin-light.svg?i=linkedin" alt="LinkedIn" width="40" />
+  </picture></a>
+  <a href="mailto:versnic@example.com"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/versnic/versnic/main/profile-assets/icon-email-dark.svg?i=gmail" />
+    <img src="https://raw.githubusercontent.com/versnic/versnic/main/profile-assets/icon-email-light.svg?i=gmail" alt="Email" width="40" />
+  </picture></a>
+</p>
