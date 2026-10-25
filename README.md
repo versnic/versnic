@@ -53,10 +53,11 @@ I help turn ideas into functional, well-crafted digital products, bringing toget
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/versnic/versnic/main/profile-assets/card-repo-dev-workspace-cli-dark.svg?username=modulane&repo=dev-workspace-cli" />
     <img src="https://raw.githubusercontent.com/versnic/versnic/main/profile-assets/card-repo-dev-workspace-cli-light.svg?username=modulane&repo=dev-workspace-cli" alt="dev-workspace-cli" />
   </picture></a>
-  <a href="https://github.com/modulane/nuxt-core"><picture>
+  <!-- is private for now -->
+  <!-- <a href="https://github.com/modulane/nuxt-core"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/versnic/versnic/main/profile-assets/card-repo-nuxt-core-dark.svg?username=modulane&repo=nuxt-core" />
     <img src="https://raw.githubusercontent.com/versnic/versnic/main/profile-assets/card-repo-nuxt-core-light.svg?username=modulane&repo=nuxt-core" alt="nuxt-core" />
-  </picture></a>
+  </picture></a> -->
 </p>
 
 <br />
